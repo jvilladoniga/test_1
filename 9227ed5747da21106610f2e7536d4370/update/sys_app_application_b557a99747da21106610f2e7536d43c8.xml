@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>xxx</description>
+        <device_type>browser</device_type>
+        <hint>xxx</hint>
+        <name/>
+        <order/>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 18:18:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b557a99747da21106610f2e7536d43c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_branch</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test_branch" source="x_803482_test_bran">9227ed5747da21106610f2e7536d4370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_branch">9227ed5747da21106610f2e7536d4370</sys_scope>
+        <sys_update_name>sys_app_application_b557a99747da21106610f2e7536d43c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 18:18:24</sys_updated_on>
+        <title>test_branch</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
